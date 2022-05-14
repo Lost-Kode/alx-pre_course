@@ -1,2 +1,2 @@
 my second readme
-lost kode
+lost-kode
